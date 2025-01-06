@@ -39,13 +39,13 @@ dependencies {
     androidTestImplementation libs.espresso.core
 
     // https://mvnrepository.com/artifact/tech.tablesaw/tablesaw-core
-    //implementation group: 'tech.tablesaw', name: 'tablesaw-core', version: '0.43.1'
+    implementation group: 'tech.tablesaw', name: 'tablesaw-core', version: '0.43.1'
    //exclude(group = "javax.management", module = "javax.management-api")
 
     //implementation 'com.opencsv:opencsv:5.5.2'
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
-    implementation group: 'com.opencsv', name: 'opencsv', version: '5.7.1'
+    // implementation group: 'com.opencsv', name: 'opencsv', version: '5.7.1'
 
 
 
