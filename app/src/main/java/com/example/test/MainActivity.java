@@ -14,18 +14,6 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.List;
 
-//import android.os.Bundle;
-//import android.view.View;
-//import android.widget.Button;
-//import androidx.appcompat.app.AppCompatActivity;
-//import java.io.BufferedReader;
-//import java.io.IOException;
-//import java.io.InputStream;
-//import java.io.InputStreamReader;
-//import com.opencsv.CSVReader;
-//import com.opencsv.exceptions.CsvException;
-//import android.util.Log;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override

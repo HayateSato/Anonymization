@@ -45,7 +45,7 @@ dependencies {
     //implementation 'com.opencsv:opencsv:5.5.2'
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
-    // implementation group: 'com.opencsv', name: 'opencsv', version: '5.7.1'
+    implementation group: 'com.opencsv', name: 'opencsv', version: '5.7.1'
 
 
 
