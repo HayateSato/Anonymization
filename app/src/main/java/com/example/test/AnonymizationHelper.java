@@ -23,7 +23,7 @@ public class AnonymizationHelper {
             int k,
             Context context) throws IOException {
         // Read the CSV file from assets
-        InputStream inputStream = context.getAssets().open(dataFileName);
+        InputStream inputStream = context.getAssets().open("dataset.csv");
         // Process the input stream...
 
         // Read hierarchy files from assets
