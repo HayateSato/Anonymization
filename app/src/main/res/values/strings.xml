@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Test</string>
     <string name="read_button">Read File in the backend </string>
-    <string name="calculate_button">Calculate </string>
-    <string name="textview">Anonymization with Mondorian</string>
+    <string name="calculate_button">Calculate in the backend</string>
+    <string name="textview">Anonymization with Mondrian</string>
+    <string name="anonymize_Button">Anonymize Data</string>
 </resources>
